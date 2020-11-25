@@ -1,5 +1,5 @@
 # Deploy 
-(https://doomer77.github.io/banner-generator-test-avito/)
+[ссылка на deploy](https://doomer77.github.io/banner-generator-test-avito/)
 
 # Getting Started with Create React App
 
